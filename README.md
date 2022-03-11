@@ -3,7 +3,7 @@
 
 ## Charcters and Progress
 - [x] Rayden
-- [ ] Shao Khan
+- [x] Shao Khan
 - [ ] Scorpian
 - [ ] Sub Zero
 - [ ] Kung Lao
