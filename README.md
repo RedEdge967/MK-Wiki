@@ -8,7 +8,7 @@
 - [x] Rayden
 - [x] Shao Khan
 - [x] Shang Tsung
-- [ ] Scorpian
+- [x] Scorpion
 - [ ] Sub Zero
 - [ ] Kung Lao
 - [ ] Liu kang
