@@ -10,7 +10,7 @@
 - [x] Shao Khan
 - [x] Shang Tsung
 - [x] Scorpion
-- [ ] Sub Zero
+- [x] Sub Zero
 - [ ] Kung Lao
 - [ ] Liu kang
 - [ ] Jax Briggs
