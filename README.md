@@ -11,7 +11,7 @@
 - [x] Shang Tsung
 - [x] Scorpion
 - [x] Sub Zero
-- [ ] Kung Lao
+- [x] Kung Lao
 - [ ] Liu kang
 - [ ] Jax Briggs
 - [ ] Johnny cage
