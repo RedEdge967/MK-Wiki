@@ -12,7 +12,7 @@
 - [x] Scorpion
 - [x] Sub Zero
 - [x] Kung Lao
-- [ ] Liu kang
+- [x] Liu kang
 - [ ] Jax Briggs
 - [ ] Johnny cage
 - [ ] Sonya blade
