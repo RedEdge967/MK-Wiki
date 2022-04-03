@@ -13,7 +13,7 @@
 - [x] Sub Zero
 - [x] Kung Lao
 - [x] Liu kang
-- [ ] Jax Briggs
+- [x] Jax Briggs
 - [ ] Johnny cage
 - [ ] Sonya blade
 - [ ] Kitana
