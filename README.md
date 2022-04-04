@@ -18,4 +18,7 @@
 - [ ] Sonya blade
 - [ ] Kitana
 - [ ] Mileena
+- [ ] Noob Saibot
+- [ ] Cyrax
+- [ ] Sektor
 - [ ] Still loading...
