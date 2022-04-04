@@ -14,7 +14,7 @@
 - [x] Kung Lao
 - [x] Liu kang
 - [x] Jax Briggs
-- [ ] Johnny cage
+- [x] Johnny cage
 - [ ] Sonya blade
 - [ ] Kitana
 - [ ] Mileena
