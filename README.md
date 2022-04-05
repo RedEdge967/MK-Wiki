@@ -15,10 +15,11 @@
 - [x] Liu kang
 - [x] Jax Briggs
 - [x] Johnny cage
-- [ ] Sonya blade
+- [x] Sonya blade
 - [ ] Kitana
 - [ ] Mileena
 - [ ] Noob Saibot
 - [ ] Cyrax
 - [ ] Sektor
+- [ ] Smoke
 - [ ] Still loading...
