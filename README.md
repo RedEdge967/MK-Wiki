@@ -17,7 +17,7 @@
 - [x] Johnny cage
 - [x] Sonya blade
 - [x] Kitana
-- [ ] Mileena
+- [x] Mileena
 - [ ] Rain
 - [ ] Reptile
 - [ ] Ermac
@@ -27,4 +27,9 @@
 - [ ] Smoke
 - [ ] Kotal Kahn
 - [ ] Baraka
+- [ ] Sindel
+- [ ] Nightwolf
 - [ ] Still loading...
+
+# Can I Contribute?
+- Of course you can. I am searching for new collaboraters to cover all the characters in this wiki. to contribute, just open a PR after making your changes. Thank you! Happy Coding!
