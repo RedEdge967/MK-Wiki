@@ -5,7 +5,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/b/b1/Mortal_Kombat_Logo.svg/1200px-Mortal_Kombat_Logo.svg.png" height="30%" width="30%">
 </p>
 
-## Charcters and Progress
+## Characters and Progress
 - [x] Rayden
 - [x] Shao Khan
 - [x] Shang Tsung
@@ -16,10 +16,15 @@
 - [x] Jax Briggs
 - [x] Johnny cage
 - [x] Sonya blade
-- [ ] Kitana
+- [x] Kitana
 - [ ] Mileena
+- [ ] Rain
+- [ ] Reptile
+- [ ] Ermac
 - [ ] Noob Saibot
 - [ ] Cyrax
 - [ ] Sektor
 - [ ] Smoke
+- [ ] Kotal Kahn
+- [ ] Baraka
 - [ ] Still loading...
