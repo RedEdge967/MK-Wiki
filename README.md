@@ -20,7 +20,7 @@
 - [x] Mileena
 - [x] Rain
 - [x] Reptile
-- [ ] Ermac
+- [x] Ermac
 - [ ] Noob Saibot
 - [ ] Cyrax
 - [ ] Sektor
