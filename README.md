@@ -18,7 +18,7 @@
 - [x] Sonya blade
 - [x] Kitana
 - [x] Mileena
-- [ ] Rain
+- [x] Rain
 - [ ] Reptile
 - [ ] Ermac
 - [ ] Noob Saibot
@@ -29,6 +29,9 @@
 - [ ] Baraka
 - [ ] Sindel
 - [ ] Nightwolf
+- [ ] Goro
+- [ ] Jade
+- [ ] Cassie cage
 - [ ] Still loading...
 
 # Can I Contribute?
