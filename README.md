@@ -21,7 +21,7 @@
 - [x] Rain
 - [x] Reptile
 - [x] Ermac
-- [ ] Noob Saibot
+- [x] Noob Saibot
 - [ ] Cyrax
 - [ ] Sektor
 - [ ] Smoke
