@@ -19,7 +19,7 @@
 - [x] Kitana
 - [x] Mileena
 - [x] Rain
-- [ ] Reptile
+- [x] Reptile
 - [ ] Ermac
 - [ ] Noob Saibot
 - [ ] Cyrax
