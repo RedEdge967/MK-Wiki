@@ -25,14 +25,14 @@
 - [x] Cyrax
 - [x] Sektor
 - [x] Smoke
-- [ ] Kotal Kahn
+- [x] Kotal Kahn
 - [ ] Baraka
 - [ ] Sindel
 - [ ] Nightwolf
 - [ ] Goro
 - [ ] Jade
 
-*If you have played any season of Mortal Kombat and want to suggest another character to this wiki, suggest them [here](https://github.com/RedEdge967/MK-Wiki/issues).*
+*If you have played any season of Mortal Kombat and want to suggest another character to this wiki, suggest them [here](https://github.com/RedEdge967/MK-Wiki/issues/new/choose).*
 
 
 # Can I Contribute?
