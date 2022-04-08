@@ -26,7 +26,7 @@
 - [x] Sektor
 - [x] Smoke
 - [x] Kotal Kahn
-- [ ] Baraka
+- [x] Baraka
 - [ ] Sindel
 - [ ] Nightwolf
 - [ ] Goro
