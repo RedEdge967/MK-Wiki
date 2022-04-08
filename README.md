@@ -22,17 +22,18 @@
 - [x] Reptile
 - [x] Ermac
 - [x] Noob Saibot
-- [ ] Cyrax
-- [ ] Sektor
-- [ ] Smoke
+- [x] Cyrax
+- [x] Sektor
+- [x] Smoke
 - [ ] Kotal Kahn
 - [ ] Baraka
 - [ ] Sindel
 - [ ] Nightwolf
 - [ ] Goro
 - [ ] Jade
-- [ ] Cassie cage
-- [ ] Still loading...
+
+*If you have played any season of Mortal Kombat and want to suggest another character to this wiki, suggest them [here](https://github.com/RedEdge967/MK-Wiki/issues).*
+
 
 # Can I Contribute?
 - Of course you can. I am searching for new collaboraters to cover all the characters in this wiki. to contribute, just open a PR after making your changes. Thank you! Happy Coding!
