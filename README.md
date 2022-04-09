@@ -27,10 +27,11 @@
 - [x] Smoke
 - [x] Kotal Kahn
 - [x] Baraka
-- [ ] Sindel
-- [ ] Nightwolf
+- [x] Sindel
+- [x] Nightwolf
 - [ ] Goro
 - [ ] Jade
+- [ ] Kabal
 
 *If you have played any season of Mortal Kombat and want to suggest another character to this wiki, suggest them [here](https://github.com/RedEdge967/MK-Wiki/issues/new/choose).*
 
