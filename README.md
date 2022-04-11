@@ -29,7 +29,7 @@
 - [x] Baraka
 - [x] Sindel
 - [x] Nightwolf
-- [ ] Goro
+- [x] Goro
 - [ ] Jade
 - [ ] Kabal
 
