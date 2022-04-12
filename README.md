@@ -31,10 +31,25 @@
 - [x] Nightwolf
 - [x] Goro
 - [x] Jade
-- [ ] Kabal
+- [x] Kabal
 
 *If you have played any season of Mortal Kombat and want to suggest another character to this wiki, suggest them [here](https://github.com/RedEdge967/MK-Wiki/issues/new/choose).*
 
 
 # Can I Contribute?
 - Of course you can. I am searching for new collaboraters to cover all the characters in this wiki. to contribute, just open a PR after making your changes. Thank you! Happy Coding!
+
+## Support this project
+- To support this amazing project, leave star please. Give feedbacks in the discussions. Thank you!
+
+```javascript
+Please leave a star!.repeat(2)
+```
+
+```javascript
+Bye!.repeat(3)
+```
+
+```javascript
+Thank you!.repeat(1)
+```
