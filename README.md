@@ -47,7 +47,7 @@
 ## Contributing steps
 - Fork this repo
 - Add the `<character-name>.html` file to the `characters` directory
-- Copy the skeleton code from `./character/skeleton/skeleton.html`
+- Copy the skeleton code from `./characters/skeleton/skeleton.html`
 - Edit with the specified character informations
 - Add the character to the `index.html` using the skeleton code below
 ```html
@@ -71,5 +71,5 @@
 Please leave a star!.repeat(2)
 ```
 ```javascript
-Thank you!.repeat(1)
+Happy Coding!.repeat(1)
 ```
