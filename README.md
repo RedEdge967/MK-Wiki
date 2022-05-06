@@ -70,8 +70,8 @@
 - To support this amazing project, leave star please. Give feedbacks in the discussions. Thank you!
 
 ```javascript
-Please leave a star!.repeat(2)
+"Please leave a star! ".repeat(2)
 ```
 ```javascript
-Happy Coding!.repeat(1)
+"Happy Coding! ".repeat(1)
 ```
