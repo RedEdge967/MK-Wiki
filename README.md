@@ -6,6 +6,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/b/b1/Mortal_Kombat_Logo.svg/1200px-Mortal_Kombat_Logo.svg.png" height="30%" width="30%">
 </p>
 
+## Notice
+>##### This is wiki is not in anyway affliated with any Developer entertainments of Mortal Kombat.
+>##### To experience the best performence, use Chrome web browser instead of Firefox.
 
 ## Characters and Progress
 - [x] Rayden
