@@ -66,6 +66,20 @@
 - Open a PR
 - Yay! You contributed to this project
 
+## Contributors
+<a href="https://github.com/RedEdge967/MK-Wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RedEdge967/MK-Wiki" />
+</a>
+
+### Known Issues
+- Blur not working in Firefox browser.
+###### Solution:
+1. Open `about:config` in your firefox browser.
+2. Search for `layout.css.backdrop-filter.enabled` and set it to `true`.
+
+## License
+⚖️ MIT License
+
 ## Support this project
 - To support this amazing project, leave star please. Give feedbacks in the discussions. Thank you!
 
