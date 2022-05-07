@@ -1,7 +1,7 @@
 <h1 align="Center">Mortal Kombat Wiki</h1>
 
 - A Mortal Kombat Character Wiki made with a glassmorphism user interface, with HTML5, CSS3 and JS.
-- See it live [here](https://mk-wiki.vercel.app).
+- You can See it live [here](https://mk-wiki.vercel.app).
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/b/b1/Mortal_Kombat_Logo.svg/1200px-Mortal_Kombat_Logo.svg.png" height="30%" width="30%">
 </p>
@@ -84,7 +84,7 @@
 ⚖️ MIT License
 
 ## Support this project
-- To support this amazing project, leave star please. Give feedbacks in the discussions. Thank you!
+- To support this amazing project, leave a star please. Give feedbacks in the discussions. Thank you!
 
 ```javascript
 "Please leave a star! ".repeat(2)
