@@ -39,7 +39,7 @@
 - [x] Kabal
 - [x] Kano
 - [x] Cassie Cage
-- [ ] Jacqui briggs
+- [x] Jacqui briggs
 - [ ] Kenshi
 - [ ] Takeda
 
