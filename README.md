@@ -8,7 +8,7 @@
 
 ## Notice
 >##### This is wiki is not in anyway affliated with any Developer entertainments of Mortal Kombat.
->##### To experience the best performence, use Chrome web browser instead of Firefox.
+>##### To experience the best performence, use Chrome, Brave or any other web browser instead Firefox.
 
 ## Characters and Progress
 - [x] Rayden
@@ -38,6 +38,10 @@
 - [x] Jade
 - [x] Kabal
 - [x] Kano
+- [x] Cassie Cage
+- [ ] Jacqui briggs
+- [ ] Kenshi
+- [ ] Takeda
 
 *If you have played any season of Mortal Kombat and want to suggest another character to this wiki, suggest them [here](https://github.com/RedEdge967/MK-Wiki/issues/new/choose).*
 
