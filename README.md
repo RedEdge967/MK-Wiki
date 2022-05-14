@@ -41,7 +41,7 @@
 - [x] Cassie Cage
 - [x] Jacqui briggs
 - [x] Kenshi
-- [ ] Takeda
+- [x] Takeda
 
 *If you have played any season of Mortal Kombat and want to suggest another character to this wiki, suggest them [here](https://github.com/RedEdge967/MK-Wiki/issues/new/choose).*
 
